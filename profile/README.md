@@ -1,7 +1,8 @@
 ## Welcome to Buffalo Machine Learning
 
-<!--
+![Logo](bml_logo_idea.png)
 
+<!--
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
